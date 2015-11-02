@@ -11,5 +11,5 @@ buildscript {
 apply plugin: 'jacoco'
 
 jacoco {
-    integrationTestTaskName = 'integrationTest'
+    // integrationTestTaskName = 'integrationTest'
 }
